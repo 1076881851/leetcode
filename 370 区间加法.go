@@ -1,5 +1,4 @@
-
-//一般做法
+//一般做法 370-1
 func getModifiedArray(length int, updates [][]int) []int {
     array := make([]int, length)
     for _, update := range updates {
